@@ -6,11 +6,11 @@ from time import sleep
 import random
 from datetime import datetime
 
-accounts = [];
+accounts = [2000];
 accCount = 0;
 
-myAccount = "not_nang";
-myPassword = "password"
+myAccount = "urbanned_art_";
+myPassword = "Godloves38!"
  #fill this out with a starting page
 accounts.append("meme_greatness1");
 accounts.append("crispi_memes");
